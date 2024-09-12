@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/pr0ph0z/test-commit/compare/v1.1.0...v1.1.1) (2024-09-12)
+
+
+### CI
+
+* Update workflow to upport hotfix ([b06ef99](https://github.com/pr0ph0z/test-commit/commit/b06ef99f9aa6ccb388332ae10b2e4a8923c2771a))
+
 ## 1.1.0 (2024-08-22)
 
 
