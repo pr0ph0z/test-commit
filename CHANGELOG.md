@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.2.0](https://github.com/pr0ph0z/test-commit/compare/v1.1.1...v1.2.0) (2024-09-12)
+
+
+### Features
+
+* Add feat 1 ([b3a8d55](https://github.com/pr0ph0z/test-commit/commit/b3a8d55b3f301e57a448b86632eaf43fb167709c))
+
+
+### Bugfix
+
+* Add fix 1 ([3605dc1](https://github.com/pr0ph0z/test-commit/commit/3605dc113d5d29e0aa971b7ee9ffb124c24d907e))
+* Add fix 1 ([3605dc1](https://github.com/pr0ph0z/test-commit/commit/3605dc113d5d29e0aa971b7ee9ffb124c24d907e))
+* Add fix 1 ([896e86a](https://github.com/pr0ph0z/test-commit/commit/896e86ac6a5cbb9495cd993d63a1c02052a38212))
+
 ## [1.1.1](https://github.com/pr0ph0z/test-commit/compare/v1.1.0...v1.1.1) (2024-09-12)
 
 
