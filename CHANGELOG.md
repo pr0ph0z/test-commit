@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/pr0ph0z/test-commit/compare/v1.2.0...v1.2.1) (2024-09-12)
+
+
+### CI
+
+* Update workflow ([1b4b028](https://github.com/pr0ph0z/test-commit/commit/1b4b02832fd055954760be1fac8d9dfcb96902bc))
+
 ## [1.2.0](https://github.com/pr0ph0z/test-commit/compare/v1.1.1...v1.2.0) (2024-09-12)
 
 
