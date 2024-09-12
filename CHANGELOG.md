@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.0](https://github.com/pr0ph0z/test-commit/compare/v1.2.1...v1.3.0) (2024-09-12)
+
+
+### Features
+
+* Add feat 10 ([#9](https://github.com/pr0ph0z/test-commit/issues/9)) ([4bbc97a](https://github.com/pr0ph0z/test-commit/commit/4bbc97aa817fe3e1cfae7896539c42ac8df241cc))
+* Add ffeat ([#12](https://github.com/pr0ph0z/test-commit/issues/12)) ([1e6c1ff](https://github.com/pr0ph0z/test-commit/commit/1e6c1ff0a198b1fe2d2a7352d2e8d5d35ec1c55e))
+
 ## [1.2.1](https://github.com/pr0ph0z/test-commit/compare/v1.2.0...v1.2.1) (2024-09-12)
 
 
