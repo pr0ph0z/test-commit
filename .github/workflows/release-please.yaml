@@ -14,7 +14,6 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           release-type: simple
-          package-name: test-commit
           draft-pull-request: "true"
           labels: "be-autorelease-pending"
           release-labels: "be-autorelease-tagged"
