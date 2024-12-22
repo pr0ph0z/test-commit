@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/pr0ph0z/test-commit/compare/v1.2.1...v1.3.0) (2024-12-22)
+
+
+### Features
+
+* Add feat 10 ([#9](https://github.com/pr0ph0z/test-commit/issues/9)) ([4bbc97a](https://github.com/pr0ph0z/test-commit/commit/4bbc97aa817fe3e1cfae7896539c42ac8df241cc))
+* Add ffeat ([#12](https://github.com/pr0ph0z/test-commit/issues/12)) ([1e6c1ff](https://github.com/pr0ph0z/test-commit/commit/1e6c1ff0a198b1fe2d2a7352d2e8d5d35ec1c55e))
+* Add file A ([#19](https://github.com/pr0ph0z/test-commit/issues/19)) ([d821e04](https://github.com/pr0ph0z/test-commit/commit/d821e0474227eae39e1144625fc6d6ee1d949e24))
+* Tambah file 1 ([#13](https://github.com/pr0ph0z/test-commit/issues/13)) ([75f871a](https://github.com/pr0ph0z/test-commit/commit/75f871af950a9b42913d821918cc012d2e50b7f5))
+* Tambah file 2 ([#15](https://github.com/pr0ph0z/test-commit/issues/15)) ([dfb878e](https://github.com/pr0ph0z/test-commit/commit/dfb878eec76489d1f5a5bb3cf2e4d3ad497d7c7e))
+* Tambah file 3 ([#16](https://github.com/pr0ph0z/test-commit/issues/16)) ([9a97307](https://github.com/pr0ph0z/test-commit/commit/9a973073268eaf04b2453c6f02f6b06cebca935c))
+
 ## [1.2.3](https://github.com/pr0ph0z/test-commit/compare/v1.2.2...v1.2.3) (2024-09-12)
 
 
