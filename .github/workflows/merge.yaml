@@ -1,0 +1,14 @@
+name: On merge
+
+on:
+  pull_request:
+    types: ["opened", "reopened", "synchronize", "ready_for_review"]
+    branches-ignore:
+      - 'release-please*'
+
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - name: run
+        run: echo "Hello"
